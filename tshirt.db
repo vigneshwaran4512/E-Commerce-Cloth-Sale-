@@ -1,0 +1,3 @@
+ecom_tshirt_project/
+   ├── setup_database.py
+   ├── ecom.db  (created after running)

@@ -1,0 +1,8 @@
+product_id,name,size,color,category,cost_price,selling_price
+1,Classic Tee,S,White,Men,120.00,299.00
+2,Classic Tee,M,White,Men,120.00,299.00
+3,Classic Tee,L,White,Men,120.00,299.00
+4,Graphic Tee,S,Black,Men,150.00,349.00
+5,Graphic Tee,M,Black,Men,150.00,349.00
+6,Women's Fit Tee,S,Pink,Women,130.00,329.00
+7,Women's Fit Tee,M,Pink,Women,130.00,329.00
